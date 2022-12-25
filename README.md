@@ -16,4 +16,4 @@ script.py
 2) Open the project in your choice of IDE 
 3) Run the project
 ```
-This project was built using Python version 3.8
+
